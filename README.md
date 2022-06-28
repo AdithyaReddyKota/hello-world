@@ -1,5 +1,5 @@
 # hello-world
-This is my new repository for learning more about GITHUB
+This is my new repository for learning more about GITHUB.
 I am Adithya Reddy Kota from Hyderabad. 
 I'm pursuing my bachelor's degree from vignan institute and technology and science.
 I have secured 10 CGPA in my X standard, 94.7% in XII standard and currently in my engineering my score is 84%.
